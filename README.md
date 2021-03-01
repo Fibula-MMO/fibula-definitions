@@ -2,7 +2,7 @@
 
 ![.NET](https://github.com/fibula-mmo/fibula-definitions/workflows/.NET/badge.svg)
 
-The common definitions used in [the Fibula MMO project](https://github.com/jlnunez89/fibula-mmo), such as enumerations and flags.
+Contains common definitions used in [the Fibula MMO project](https://github.com/jlnunez89/fibula-mmo), such as enumerations and flags.
 
 ---
 
