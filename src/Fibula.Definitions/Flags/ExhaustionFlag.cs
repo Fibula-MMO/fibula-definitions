@@ -9,7 +9,7 @@
 // </copyright>
 // -----------------------------------------------------------------
 
-namespace Fibula.Definitions.Enumerations
+namespace Fibula.Definitions.Flags
 {
     /// <summary>
     /// Enumerates all known exhaustion flags.

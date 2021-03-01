@@ -9,6 +9,8 @@
 // </copyright>
 // -----------------------------------------------------------------
 
+using Fibula.Definitions.Flags;
+
 namespace Fibula.Definitions.Enumerations
 {
     /// <summary>

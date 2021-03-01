@@ -9,7 +9,7 @@
 // </copyright>
 // -----------------------------------------------------------------
 
-namespace Fibula.Common.Contracts.Enumerations
+namespace Fibula.Definitions.Enumerations
 {
     /// <summary>
     /// Enumerates the possible animated effects in the game.
