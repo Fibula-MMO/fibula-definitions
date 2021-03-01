@@ -35,10 +35,6 @@ jobs:
     - name: Test
       run: dotnet test src --no-build --verbosity normal
 
-    - name: Publish to GitHub
-      # The github token is automatically being pulled from the workflow
-      run: dotnet nuget push "bin/*.nupkg" --no-symbols --skip-duplicate --api-key ${{ secrets.GITHUB_TOKEN }}
-
     - name: Publish Fibula.Definitions Package
       run: dotnet nuget push "src/Fibula.Definitions/bin/Release/*.nupkg" --skip-duplicate --api-key ${{ secrets.GITHUB_TOKEN }}
       
