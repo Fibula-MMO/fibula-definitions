@@ -9,10 +9,10 @@
 // </copyright>
 // -----------------------------------------------------------------
 
-using Fibula.Definitions.Flags;
-
 namespace Fibula.Definitions.Enumerations
 {
+    using Fibula.Definitions.Flags;
+
     /// <summary>
     /// Enumerates the condition flags that a thing can suffer from.
     /// </summary>
