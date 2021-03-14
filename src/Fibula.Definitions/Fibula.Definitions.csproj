@@ -19,7 +19,7 @@
     <PackageProjectUrl>https://fibula-mmo.github.io/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Fibula-MMO/fibula-definitions</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <NeutralLanguage>en</NeutralLanguage>
     <Description>Common definitions in the Fibula project.</Description>
   </PropertyGroup>
@@ -37,6 +37,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Fibula.Utilities.Validation" Version="1.1.0" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>

@@ -14,7 +14,7 @@ namespace Fibula.Definitions.Flags
     /// <summary>
     /// Enumerates all known creature flags.
     /// </summary>
-    public enum CreatureFlag
+    public enum CreatureFlag : long
     {
         /// <summary>
         /// The creature attempts to clear it's path by pushing movable items or destroying them.
