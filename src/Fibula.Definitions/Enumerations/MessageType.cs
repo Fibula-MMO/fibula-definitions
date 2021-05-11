@@ -20,7 +20,7 @@ namespace Fibula.Definitions.Enumerations
         /// White message centered in the game window, and shown in the console.
         /// </summary>
         CenterWhite,
-        
+
         /// <summary>
         /// Green message centered in the game window, and shown in the console.
         /// </summary>
